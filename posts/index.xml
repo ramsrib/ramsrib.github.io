@@ -1,22 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Sri&#39;s Web Log</title>
-    <link>https://ramsrib.github.io/posts/</link>
-    <description>Recent content in Posts on Sri&#39;s Web Log</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 00:47:01 -0700</lastBuildDate>
-    <atom:link href="https://ramsrib.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://ramsrib.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 31 Mar 2020 00:47:01 -0700</pubDate>
-      <guid>https://ramsrib.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;My official first blog post in the new hugo platform.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on Sri&#39;s Web Log</title>
+		<link>https://ramsrib.github.io/posts/</link>
+		<description>Recent content in Posts on Sri&#39;s Web Log</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Tue, 31 Mar 2020 00:47:01 -0700</lastBuildDate>
+		<atom:link href="https://ramsrib.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>My First Post</title>
+			<link>https://ramsrib.github.io/posts/my-first-post/</link>
+			<pubDate>Tue, 31 Mar 2020 00:47:01 -0700</pubDate>
+			
+			<guid>https://ramsrib.github.io/posts/my-first-post/</guid>
+			<description>My official first blog post in the new hugo platform.</description>
+			<content type="html"><![CDATA[<p>My official first blog post in the new hugo platform.</p>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
