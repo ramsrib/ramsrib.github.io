@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ramsrib.github.io/about-me/</loc>
+    <loc>https://sriramb.com/about-me/</loc>
     <lastmod>2020-05-04T15:53:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ramsrib.github.io/</loc>
-    <lastmod>2020-05-04T15:53:30-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ramsrib.github.io/posts/my-first-post/</loc>
+    <loc>https://sriramb.com/posts/my-first-post/</loc>
     <lastmod>2020-03-31T00:47:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ramsrib.github.io/posts/</loc>
+    <loc>https://sriramb.com/posts/</loc>
     <lastmod>2020-03-31T00:47:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ramsrib.github.io/categories/</loc>
+    <loc>https://sriramb.com/</loc>
+    <lastmod>2020-03-31T00:47:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ramsrib.github.io/tags/</loc>
+    <loc>https://sriramb.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sriramb.com/tags/</loc>
   </url>
   
 </urlset>
